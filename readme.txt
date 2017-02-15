@@ -1,4 +1,1 @@
-git is a distributed version control system.
-git is free distibuted uder the GPL software
-git has a mutable index called stage
-git traks changes of files.
+刚开始使用git，稍微有点不熟练，新建了一个respostyory尝试一下。
